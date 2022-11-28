@@ -8,3 +8,9 @@ body {
 h1 {
   color: red;
 }
+
+/* classes dinamicas */
+.red-title {
+  font-size: 50px;
+  color: red;
+}
