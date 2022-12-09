@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "capa de chuva",
+      "price": "50.50",
+      "id": 5
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": 6
+    },
+    {
+      "name": "cadeira",
+      "price": "200",
+      "id": 7
+    },
+    {
+      "name": "mouse",
+      "price": "60",
+      "id": 8
+    },
+    {
+      "name": "suporte monitor",
+      "price": "120",
+      "id": 9
+    },
+    {
+      "name": "cabo hdmi",
+      "price": "10",
+      "id": 11
+    },
+    {
+      "name": "suporte microfone",
+      "price": "60",
+      "id": 12
+    }
+  ]
+}
